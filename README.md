@@ -44,7 +44,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/jesslee2023/frontend-developer-portfolio.git
-cd project_3D_developer_portfolio
+cd frontend-developer-portfolio
 ```
 
 **Installation**
