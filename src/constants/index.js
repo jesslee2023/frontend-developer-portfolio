@@ -27,6 +27,7 @@ import {
   recipe,
   halloween,
   hyper,
+  pencilpaws,
 } from '../assets';
 
 export const navLinks = [
@@ -253,6 +254,27 @@ const projects = [
     image: halloween,
     source_code_link: 'https://github.com/jesslee2023/Halloween-town',
     deploy_link: 'https://halloween-jess.netlify.app',
+  },
+  {
+    name: 'Draw and Guess',
+    description: 'A website is dedicated to show the game of Draw and Guess.',
+    tags: [
+      {
+        name: 'html',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'javascript',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: pencilpaws,
+    source_code_link: 'https://github.com/jesslee2023/PencilPawsBeta',
+    deploy_link: 'https://jesslee-pencilpaws.netlify.app',
   },
 ];
 

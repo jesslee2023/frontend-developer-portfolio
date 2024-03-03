@@ -34,6 +34,7 @@ import library from './library.png';
 import recipe from './recipe.png';
 import halloween from './halloween.png';
 import hyper from './company/hyper.png';
+import pencilpaws from './pencilpaws.png';
 
 export {
   logo,
@@ -69,4 +70,5 @@ export {
   recipe,
   halloween,
   hyper,
+  pencilpaws,
 };
